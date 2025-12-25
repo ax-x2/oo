@@ -1,0 +1,11 @@
+[package]
+name = "oo"
+description = "oo - observe overview"
+license-file = "LICENSE"
+version = "0.1.0"
+edition = "2024"
+
+repository = "https://github.com/ax-x2/oo"
+homepage = "https://1000x.sh"
+
+[dependencies]
